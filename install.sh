@@ -1,6 +1,7 @@
 #!/bin/bash
 ####alk99###
 clear ;
+cd clone-download-alk-evil-twin ;
 echo "instalation-of-evil-twin-for-android-by-alk99";
 printf "\n\n\n"
 echo "intalling iptables....";
